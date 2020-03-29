@@ -1,0 +1,25 @@
+{
+  "name": "node.js-mysql-hw",
+  "version": "1.0.0",
+  "description": "HW 10",
+  "main": "bamazoncustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OAbbasi522/Node.js-MySQL-HW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OAbbasi522/Node.js-MySQL-HW/issues"
+  },
+  "homepage": "https://github.com/OAbbasi522/Node.js-MySQL-HW#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquire": "^0.4.8",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
+}
